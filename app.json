@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "antimodul",
-    "slug": "antimodul",
+    "name": "Simple Login Template",
+    "slug": "simple-login-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
